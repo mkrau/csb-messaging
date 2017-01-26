@@ -1,0 +1,9 @@
+!.gitignore
+!*.md
+!*.html
+!*.sqlite
+!*.php
+!*.css
+!*.ini
+!*.sql
+!*.pdf
